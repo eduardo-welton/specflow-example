@@ -1,0 +1,10 @@
+C:\BDD\BDD.Specflow\BDD.Ferramentas\bin\Debug\BDD.Ferramentas.dll
+C:\BDD\BDD.Specflow\BDD.Ferramentas\bin\Debug\BDD.Ferramentas.pdb
+C:\BDD\BDD.Specflow\BDD.Ferramentas\obj\Debug\BDD.Ferramentas.csprojResolveAssemblyReference.cache
+C:\BDD\BDD.Specflow\BDD.Ferramentas\obj\Debug\BDD.Ferramentas.dll
+C:\BDD\BDD.Specflow\BDD.Ferramentas\obj\Debug\BDD.Ferramentas.pdb
+C:\Projetos\GitHub\specflow-example\BDD.Ferramentas\bin\Debug\BDD.Ferramentas.dll
+C:\Projetos\GitHub\specflow-example\BDD.Ferramentas\bin\Debug\BDD.Ferramentas.pdb
+C:\Projetos\GitHub\specflow-example\BDD.Ferramentas\obj\Debug\BDD.Ferramentas.csprojResolveAssemblyReference.cache
+C:\Projetos\GitHub\specflow-example\BDD.Ferramentas\obj\Debug\BDD.Ferramentas.dll
+C:\Projetos\GitHub\specflow-example\BDD.Ferramentas\obj\Debug\BDD.Ferramentas.pdb

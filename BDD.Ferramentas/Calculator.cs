@@ -8,7 +8,7 @@ namespace BDD.Ferramentas
 {
     public class Calculator
     {
-        public double LastResult { get; set; }
+        private double LastResult { get; set; }
 
         public double Sum(double number1, double number2)
         {

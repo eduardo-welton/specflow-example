@@ -9,3 +9,14 @@ C:\BDD\BDD.Specflow\bin\Debug\nunit.framework.xml
 C:\BDD\BDD.Specflow\obj\Debug\BDD.Specflow.csprojResolveAssemblyReference.cache
 C:\BDD\BDD.Specflow\obj\Debug\BDD.Specflow.dll
 C:\BDD\BDD.Specflow\obj\Debug\BDD.Specflow.pdb
+C:\Projetos\GitHub\specflow-example\BDD.Specflow\obj\Debug\BDD.Specflow.csprojResolveAssemblyReference.cache
+C:\Projetos\GitHub\specflow-example\BDD.Specflow\obj\Debug\BDD.Specflow.dll
+C:\Projetos\GitHub\specflow-example\BDD.Specflow\obj\Debug\BDD.Specflow.pdb
+C:\Projetos\GitHub\specflow-example\BDD.Specflow\bin\Debug\BDD.Specflow.dll.config
+C:\Projetos\GitHub\specflow-example\BDD.Specflow\bin\Debug\BDD.Specflow.dll
+C:\Projetos\GitHub\specflow-example\BDD.Specflow\bin\Debug\BDD.Specflow.pdb
+C:\Projetos\GitHub\specflow-example\BDD.Specflow\bin\Debug\BDD.Ferramentas.dll
+C:\Projetos\GitHub\specflow-example\BDD.Specflow\bin\Debug\nunit.framework.dll
+C:\Projetos\GitHub\specflow-example\BDD.Specflow\bin\Debug\TechTalk.SpecFlow.dll
+C:\Projetos\GitHub\specflow-example\BDD.Specflow\bin\Debug\BDD.Ferramentas.pdb
+C:\Projetos\GitHub\specflow-example\BDD.Specflow\bin\Debug\nunit.framework.xml

@@ -63,13 +63,13 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="BDD.Ferramentas\BDD.Ferramentas.csproj">
-      <Project>{BA50D661-F1F1-49DF-B1A3-D3FC96C86439}</Project>
-      <Name>BDD.Ferramentas</Name>
-    </ProjectReference>
+    <Content Include="Cola.txt" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Cola.txt" />
+    <ProjectReference Include="..\BDD.Ferramentas\BDD.Ferramentas.csproj">
+      <Project>{ba50d661-f1f1-49df-b1a3-d3fc96c86439}</Project>
+      <Name>BDD.Ferramentas</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
