@@ -1,0 +1,11 @@
+C:\BDD\BDD.Specflow\bin\Debug\BDD.Specflow.dll.config
+C:\BDD\BDD.Specflow\bin\Debug\BDD.Specflow.dll
+C:\BDD\BDD.Specflow\bin\Debug\BDD.Specflow.pdb
+C:\BDD\BDD.Specflow\bin\Debug\BDD.Ferramentas.dll
+C:\BDD\BDD.Specflow\bin\Debug\nunit.framework.dll
+C:\BDD\BDD.Specflow\bin\Debug\TechTalk.SpecFlow.dll
+C:\BDD\BDD.Specflow\bin\Debug\BDD.Ferramentas.pdb
+C:\BDD\BDD.Specflow\bin\Debug\nunit.framework.xml
+C:\BDD\BDD.Specflow\obj\Debug\BDD.Specflow.csprojResolveAssemblyReference.cache
+C:\BDD\BDD.Specflow\obj\Debug\BDD.Specflow.dll
+C:\BDD\BDD.Specflow\obj\Debug\BDD.Specflow.pdb
